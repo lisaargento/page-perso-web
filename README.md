@@ -1,6 +1,4 @@
-# Final_Project_IT_TUD
-Final project for my IT class in Bolton Street TUD
-
+# My personal Webpage
 
 The purpose of this webpage is to present myself and to work on particular implantations and tools, on implementing a CSS framework, integrating external data, and deploying it on the internet. I build the website from a previous web page I had done.
 
